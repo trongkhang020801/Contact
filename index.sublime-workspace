@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"de0611"
+			],
+			[
+				"border",
+				"border-right\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tcolor"
+			],
+			[
+				"fl",
+				"flex-start\tjustify-content"
+			],
+			[
+				"borde",
+				"border-right\tproperty"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"t",
+				"transparent\tbackground"
+			],
+			[
+				"text",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"ho",
+				"home"
+			],
+			[
+				"scr",
+				"scroll-up-btn"
+			],
+			[
+				"gi",
+				"grid-area\tproperty"
+			],
+			[
+				"g",
+				"grid-area\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"a",
+				"align-items\tproperty"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"j",
+				"js_amination"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"amin",
+				"animation-name\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"box-sizing\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"pro",
+				"protect"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/CODE WEB/flim.html",
+		"/D/Sublime Text Build 3211 x64/Data/Packages/User/chome.subline-build.sublime-build",
+		"/D/CODE WEB/proflie_code.js",
+		"/D/CODE WEB/proflie_code.css",
+		"/D/CODE WEB/proflie_code.html",
+		"/D/CODE WEB/style-stage-live-stream-progress-master/style.css",
+		"/D/CODE WEB/style-stage-live-stream-progress-master/stylestage.html",
+		"/D/CODE WEB/form_login.html",
+		"/D/CODE WEB/form.css",
+		"/D/CODE WEB/js_amination.css",
+		"/D/CODE WEB/js_amination.html",
+		"/D/CODE WEB/sidebar-menu-submenus-master/assets/js/js_amination.css",
+		"/D/CODE WEB/sidebar-menu-submenus-master/assets/js/js_amination.js",
+		"/D/CODE WEB/sidebar-menu-submenus-master/assets/js/js_amination.html",
+		"/D/CODE WEB/sidebar-menu-submenus-master/assets/js/main.js",
+		"/D/CODE WEB/sidebar-menu-submenus-master/assets/css/styles.css",
+		"/D/CODE WEB/sidebar-menu-submenus-master/assets/js/js_amination",
+		"/D/CODE WEB/sidebar-menu-submenus-master/index.html",
+		"/D/CODE WEB/prortfoli/index.html",
+		"/D/CODE WEB/prortfoli/assets/css/styles.css",
+		"/D/CODE WEB/import.css",
+		"/D/CODE WEB/html.html",
+		"/D/CODE WEB/import.html",
+		"/D/CODE WEB/profile/index.html",
+		"/D/CODE WEB/text.min.js",
+		"/D/CODE WEB/login.html",
+		"/D/CODE WEB/Lập trình di động/index.html",
+		"/D/CODE WEB/Lập trình di động/assets/css/styles.css",
+		"/D/Sublime Text Build 3211 x64/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/D/CODE WEB/Portfolio1-master/index.html",
+		"/D/CODE WEB/responsive-dropdown-menu-master/index.html",
+		"/D/CODE WEB/responsive-dropdown-menu-master/assets/css/styles.css",
+		"/D/CODE WEB/text.js",
+		"/D/CODE WEB/text.css",
+		"/D/CODE WEB/text.html",
+		"/C/Users/Hoang Luu/Videos/Captures/web2.html",
+		"/C/Users/Hoang Luu/Videos/Captures/import.html",
+		"/C/Users/Hoang Luu/Videos/Captures/web2.js",
+		"/C/Users/Hoang Luu/Videos/Captures/web2.css",
+		"/C/Users/Hoang Luu/Videos/Captures/content.html",
+		"/C/Users/Hoang Luu/Pictures/TechBees/index.html",
+		"/C/Users/Hoang Luu/Videos/Captures/content.css",
+		"/C/Users/Hoang Luu/Videos/Captures/content.js",
+		"/C/Users/Hoang Luu/Videos/Captures/container.js",
+		"/C/Users/Hoang Luu/Videos/Captures/protect.html",
+		"/C/Users/Hoang Luu/Videos/Captures/content_min.css",
+		"/C/Users/Hoang Luu/Videos/Captures/profile.js",
+		"/C/Users/Hoang Luu/Videos/Captures/profile.css",
+		"/C/Users/Hoang Luu/Videos/Captures/profile.html",
+		"/C/Users/Hoang Luu/Videos/Captures/protect.css",
+		"/C/Users/Hoang Luu/Videos/Captures/import.js",
+		"/C/Users/Hoang Luu/Videos/Captures/container.html",
+		"/C/Users/Hoang Luu/Videos/Captures/container.css",
+		"/C/Users/Hoang Luu/Videos/Captures/protect.js",
+		"/C/Users/Hoang Luu/Videos/Captures/giuaki.html",
+		"/C/Users/Hoang Luu/Videos/Captures/root.js",
+		"/C/Users/Hoang Luu/Videos/Captures/root.css",
+		"/C/Users/Hoang Luu/Videos/Captures/root.html",
+		"/C/Users/Hoang Luu/Videos/Captures/clip-path.css",
+		"/C/Users/Hoang Luu/Videos/Captures/style.html",
+		"/C/Users/Hoang Luu/Videos/Captures/index.html",
+		"/C/Users/Hoang Luu/Videos/Captures/index.css",
+		"/C/Users/Hoang Luu/Videos/Captures/style.css",
+		"/C/Users/Hoang Luu/Videos/Captures/web1.js",
+		"/C/Users/Hoang Luu/Videos/Captures/web1.html",
+		"/C/Users/Hoang Luu/Videos/Captures/web1.css",
+		"/C/Users/Hoang Luu/Videos/Captures/import.css",
+		"/C/Users/Hoang Luu/Videos/Captures/import.jss",
+		"/C/Users/Hoang Luu/Videos/Captures/center.css",
+		"/D/Sublime Text Build 3211 x64/Data/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Hoang Luu/Videos/Captures/animation.css",
+		"/D/Sublime Text Build 3211 x64/Data/Packages/User/ColorHighlighter.sublime-settings",
+		"/D/Sublime Text Build 3211 x64/abc.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/chome.subline-build.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
